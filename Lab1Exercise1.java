@@ -1,5 +1,6 @@
 //Lab1Exerciseone.java
-/*This program illustrates my name and address*/
+/*This program illustrates my name and address
+ * Author Shane Byrne*/
 
 public class Lab1Exercise1 {
 		
